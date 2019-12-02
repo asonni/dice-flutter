@@ -1,4 +1,3 @@
 # Dicee 🎲
 
-![End Banner](https://github.com/londonappbrewery/Images/blob/master/readme-end-banner.png)
-# Dice Flutter App
+![Finished App](https://github.com/londonappbrewery/Images/blob/master/dicee-demo.gif)
